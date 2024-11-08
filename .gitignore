@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+instance/
+.env
+
+# Node.js
+node_modules/
+dist/
+*.log
+
+# Environment
+*.env
+.vscode/
+venv/
+
+
+# Database
+*.db
